@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nada Amin
+## 👋 Hi, I'm Nada Amin
 
 🎓Student at **Egyptian E-Learning University (EELU)**
 💻Aspiring AI | Passionate about **Artificial Intelligence**
